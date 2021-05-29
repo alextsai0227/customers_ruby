@@ -73,9 +73,11 @@ Your assignment should be submitted as a Git repository hosted on a service like
 [BitBucket](https://bitbucket.org/) or [GitLab](https://gitlab.com/).
 
 ## Candidate's changes
+```
 controllers/customers_controller.rb
 helpers/application_helper.rb
 views/customers/index.html.erb
 views/customers/show.html.erb
 spec/controller/customers_controller_spec.rb
 spec/helpers/application_helper_spec.rb
+```
